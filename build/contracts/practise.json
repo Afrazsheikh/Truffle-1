@@ -28,9 +28,9 @@
       "type": "function"
     }
   ],
-  "metadata": "{\"compiler\":{\"version\":\"0.8.13+commit.abaa5c0e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"name\":\"get\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_number\",\"type\":\"uint256\"}],\"name\":\"set\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/pract.sol\":\"practise\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/pract.sol\":{\"keccak256\":\"0xb50b7f123fd356231f4503498ff38da6a8b730366592cf865aa505e2bcc17539\",\"license\":\"UNLICENSED\",\"urls\":[\"bzz-raw://a1d9ab8ffcdd6c7d7dd4fc7f30f1b9fb26bc71318b0799255b4ad2793db33c04\",\"dweb:/ipfs/QmYV8q5iNg9Lz9FaNTmNNbkgdjLhBZwjGXabybq2bS29AY\"]}},\"version\":1}",
-  "bytecode": "0x608060405234801561001057600080fd5b50610150806100206000396000f3fe608060405234801561001057600080fd5b50600436106100365760003560e01c806360fe47b11461003b5780636d4ce63c14610057575b600080fd5b610055600480360381019061005091906100c3565b610075565b005b61005f61007f565b60405161006c91906100ff565b60405180910390f35b8060008190555050565b60008054905090565b600080fd5b6000819050919050565b6100a08161008d565b81146100ab57600080fd5b50565b6000813590506100bd81610097565b92915050565b6000602082840312156100d9576100d8610088565b5b60006100e7848285016100ae565b91505092915050565b6100f98161008d565b82525050565b600060208201905061011460008301846100f0565b9291505056fea2646970667358221220a607a1896bdd5950ca1587c309a17d0b858821561fafaf9aaf0f62f62dc2331d64736f6c634300080d0033",
-  "deployedBytecode": "0x608060405234801561001057600080fd5b50600436106100365760003560e01c806360fe47b11461003b5780636d4ce63c14610057575b600080fd5b610055600480360381019061005091906100c3565b610075565b005b61005f61007f565b60405161006c91906100ff565b60405180910390f35b8060008190555050565b60008054905090565b600080fd5b6000819050919050565b6100a08161008d565b81146100ab57600080fd5b50565b6000813590506100bd81610097565b92915050565b6000602082840312156100d9576100d8610088565b5b60006100e7848285016100ae565b91505092915050565b6100f98161008d565b82525050565b600060208201905061011460008301846100f0565b9291505056fea2646970667358221220a607a1896bdd5950ca1587c309a17d0b858821561fafaf9aaf0f62f62dc2331d64736f6c634300080d0033",
+  "metadata": "{\"compiler\":{\"version\":\"0.8.13+commit.abaa5c0e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"name\":\"get\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_number\",\"type\":\"uint256\"}],\"name\":\"set\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/pract.sol\":\"practise\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/pract.sol\":{\"keccak256\":\"0x25e3bd7512ef8565adf2f5fe4c48d14754c8c2f7f41463a137954814fde31d9b\",\"license\":\"UNLICENSED\",\"urls\":[\"bzz-raw://89c8a6b01d355ba56b0c463685e65394a78c1cebb9322b9ef6506b6560e16209\",\"dweb:/ipfs/QmUS4bNuq24bNCKXbJj2USiwotgeFAm8DxUBochbj8j7LZ\"]}},\"version\":1}",
+  "bytecode": "0x608060405234801561001057600080fd5b50610150806100206000396000f3fe608060405234801561001057600080fd5b50600436106100365760003560e01c806360fe47b11461003b5780636d4ce63c14610057575b600080fd5b610055600480360381019061005091906100c3565b610075565b005b61005f61007f565b60405161006c91906100ff565b60405180910390f35b8060008190555050565b60008054905090565b600080fd5b6000819050919050565b6100a08161008d565b81146100ab57600080fd5b50565b6000813590506100bd81610097565b92915050565b6000602082840312156100d9576100d8610088565b5b60006100e7848285016100ae565b91505092915050565b6100f98161008d565b82525050565b600060208201905061011460008301846100f0565b9291505056fea2646970667358221220fcd467849f9d5dc8d5e9e9d856504c3a1f8b3f41f275bc87546892644bdce9eb64736f6c634300080d0033",
+  "deployedBytecode": "0x608060405234801561001057600080fd5b50600436106100365760003560e01c806360fe47b11461003b5780636d4ce63c14610057575b600080fd5b610055600480360381019061005091906100c3565b610075565b005b61005f61007f565b60405161006c91906100ff565b60405180910390f35b8060008190555050565b60008054905090565b600080fd5b6000819050919050565b6100a08161008d565b81146100ab57600080fd5b50565b6000813590506100bd81610097565b92915050565b6000602082840312156100d9576100d8610088565b5b60006100e7848285016100ae565b91505092915050565b6100f98161008d565b82525050565b600060208201905061011460008301846100f0565b9291505056fea2646970667358221220fcd467849f9d5dc8d5e9e9d856504c3a1f8b3f41f275bc87546892644bdce9eb64736f6c634300080d0033",
   "immutableReferences": {},
   "generatedSources": [],
   "deployedGeneratedSources": [
@@ -739,9 +739,9 @@
       "name": "#utility.yul"
     }
   ],
-  "sourceMap": "70:171:1:-:0;;;;;;;;;;;;;;;;;;;",
-  "deployedSourceMap": "70:171:1:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;107:63;;;;;;;;;;;;;:::i;:::-;;:::i;:::-;;172:64;;;:::i;:::-;;;;;;;:::i;:::-;;;;;;;;107:63;158:7;149:6;:16;;;;107:63;:::o;172:64::-;207:4;226:6;;219:13;;172:64;:::o;88:117:2:-;197:1;194;187:12;334:77;371:7;400:5;389:16;;334:77;;;:::o;417:122::-;490:24;508:5;490:24;:::i;:::-;483:5;480:35;470:63;;529:1;526;519:12;470:63;417:122;:::o;545:139::-;591:5;629:6;616:20;607:29;;645:33;672:5;645:33;:::i;:::-;545:139;;;;:::o;690:329::-;749:6;798:2;786:9;777:7;773:23;769:32;766:119;;;804:79;;:::i;:::-;766:119;924:1;949:53;994:7;985:6;974:9;970:22;949:53;:::i;:::-;939:63;;895:117;690:329;;;;:::o;1025:118::-;1112:24;1130:5;1112:24;:::i;:::-;1107:3;1100:37;1025:118;;:::o;1149:222::-;1242:4;1280:2;1269:9;1265:18;1257:26;;1293:71;1361:1;1350:9;1346:17;1337:6;1293:71;:::i;:::-;1149:222;;;;:::o",
-  "source": "// SPDX-License-Identifier:UNLICENSED\r\n\r\n\r\npragma solidity 0.8.13;\r\n\r\ncontract practise {\r\nuint number ;\r\n function set(uint _number) public {\r\n     number = _number;\r\n }\r\nfunction get() public view returns(uint){\r\n    return number;\r\n}\r\n\r\n}\r\n\r\n\r\n",
+  "sourceMap": "70:172:1:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "70:172:1:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;107:63;;;;;;;;;;;;;:::i;:::-;;:::i;:::-;;172:65;;;:::i;:::-;;;;;;;:::i;:::-;;;;;;;;107:63;158:7;149:6;:16;;;;107:63;:::o;172:65::-;208:4;227:6;;220:13;;172:65;:::o;88:117:2:-;197:1;194;187:12;334:77;371:7;400:5;389:16;;334:77;;;:::o;417:122::-;490:24;508:5;490:24;:::i;:::-;483:5;480:35;470:63;;529:1;526;519:12;470:63;417:122;:::o;545:139::-;591:5;629:6;616:20;607:29;;645:33;672:5;645:33;:::i;:::-;545:139;;;;:::o;690:329::-;749:6;798:2;786:9;777:7;773:23;769:32;766:119;;;804:79;;:::i;:::-;766:119;924:1;949:53;994:7;985:6;974:9;970:22;949:53;:::i;:::-;939:63;;895:117;690:329;;;;:::o;1025:118::-;1112:24;1130:5;1112:24;:::i;:::-;1107:3;1100:37;1025:118;;:::o;1149:222::-;1242:4;1280:2;1269:9;1265:18;1257:26;;1293:71;1361:1;1350:9;1346:17;1337:6;1293:71;:::i;:::-;1149:222;;;;:::o",
+  "source": "// SPDX-License-Identifier:UNLICENSED\r\n\r\n\r\npragma solidity 0.8.13;\r\n\r\ncontract practise {\r\nuint number ;\r\n function set(uint _number) public {\r\n     number = _number;\r\n }\r\nfunction get() public view returns (uint){\r\n    return number;\r\n}\r\n\r\n}\r\n\r\n\r\n",
   "sourcePath": "D:\\Blockchain Journey\\Trufffle\\truf\\contracts\\pract.sol",
   "ast": {
     "absolutePath": "project:/contracts/pract.sol",
@@ -915,7 +915,7 @@
             "body": {
               "id": 53,
               "nodeType": "Block",
-              "src": "212:24:1",
+              "src": "213:24:1",
               "statements": [
                 {
                   "expression": {
@@ -924,7 +924,7 @@
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
                     "referencedDeclaration": 36,
-                    "src": "226:6:1",
+                    "src": "227:6:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -933,7 +933,7 @@
                   "functionReturnParameters": 50,
                   "id": 52,
                   "nodeType": "Return",
-                  "src": "219:13:1"
+                  "src": "220:13:1"
                 }
               ]
             },
@@ -963,7 +963,7 @@
                   "nameLocation": "-1:-1:-1",
                   "nodeType": "VariableDeclaration",
                   "scope": 54,
-                  "src": "207:4:1",
+                  "src": "208:4:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -974,7 +974,7 @@
                     "id": 48,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "207:4:1",
+                    "src": "208:4:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -983,21 +983,21 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "206:6:1"
+              "src": "207:6:1"
             },
             "scope": 55,
-            "src": "172:64:1",
+            "src": "172:65:1",
             "stateMutability": "view",
             "virtual": false,
             "visibility": "public"
           }
         ],
         "scope": 56,
-        "src": "70:171:1",
+        "src": "70:172:1",
         "usedErrors": []
       }
     ],
-    "src": "43:204:1"
+    "src": "43:205:1"
   },
   "compiler": {
     "name": "solc",
@@ -1005,7 +1005,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-05-06T06:40:06.007Z",
+  "updatedAt": "2022-05-06T12:07:13.357Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
