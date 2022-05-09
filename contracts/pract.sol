@@ -5,6 +5,7 @@ pragma solidity 0.8.13;
 
 contract practise {
 uint number ;
+// setter function
  function set(uint _number) public {
      number = _number;
  }
